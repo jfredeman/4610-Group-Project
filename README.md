@@ -31,15 +31,18 @@ Data Model Description:
 
 ONE TO MANY Identifying Relationships:
 - A Customer can have multiple Sales but without the customer there are no Sales
+
 ONE TO MANY Relationships:
 - A Salesperson has many Sales
 - A Salesperson has many Customers
 - A Customer has many Payments
 - A Dealership has many Sales people
 - A Finance has mutiple Payments
+
 ONE TO ONE Relationships:
 - Each Sale has has one Payment plan and a Payment plan is attached to one Sale
 - A Sale includes one Vehicle and a Vehicle has one sale
+
 MANY TO MANY Relationships:
 - Dealership to Manufacturer - A dealership can get vehicles from multiple manufacturers and a manufacturer will sell vehicles to multiple dealerships. The Associative table is Vehicle.
 - Customer to Service- a customer can request multiple services, and a service can be requested by multiple customers. The Associative table is Service Request.
