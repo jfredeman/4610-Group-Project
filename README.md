@@ -24,8 +24,7 @@ Improvements:
 - Another improvement is the incorporation of a personalized salesperson. We have a head manager assuring each saleperson is doing their job well, and each customer will only ever have to deal with one salesperson. Dealing with one and only one trained professional will help reduce the customer stress and make them feel more comfortable in the experience.
 ## Data Model
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![SIX_2304F38C-9ECA-4804-A0C5-C84DBD832101](https://user-images.githubusercontent.com/126897383/228658528-dc59cf80-6fbf-499b-964a-96012bd864ef.jpeg)
 
 Data Model Description:
 
