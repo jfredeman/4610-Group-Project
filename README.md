@@ -10,7 +10,7 @@ Team Members
 - Pierre Paradis [@pierreparadis](https://github.com/pierreparadis)
 - Ethan Delamater  [@ethandelamater](https://github.com/ethandelamater)
 - Anders Roth [@AndersRoth](https://github.com/AndersRoth)
-- Joseph Fredeman [@Jfredeman](https://github.com/Jfredeman)
+- Joseph Fredeman [@Jfredeman](https://github.com/Jfredeman) 
 
 
 
