@@ -90,7 +90,7 @@ GROUP BY spName
 HAVING SUM(saleAmount) > 40000k
 ORDER BY SUM(saleAmount) DESC;
 
-Justification: A manager can see which of his employees are creating the most business for the company and assigning raises to any salesperson who has generated over $40,000 in sales, as well as a bonus for the top earner.
+Justification: A manager can see which of his employees are creating the most business for the company and assign raises to any salesperson who has generated over $40,000 in sales, as well as a bonus for the top earner.
 
 _Result:_
 
