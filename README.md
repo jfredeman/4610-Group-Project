@@ -44,10 +44,10 @@ ONE TO ONE Relationships:
 
 MANY TO MANY Relationships:
 - Dealership to Manufacturer - A dealership can get vehicles from multiple manufacturers and a manufacturer will sell vehicles to multiple dealerships. The Associative table is Vehicle.
-- Customer to Service- a customer can request multiple services, and a service can be requested by multiple customers. The Associative table is Service Request.
+- Customer to Service - a customer can request multiple services, and a service can be requested by multiple customers. The Associative table is Service Request.
 
 RECURSIVE Relationship:
-- Manager to Salesperson- A manager can manage multiple Sales people, but a Salesperson only has one Manager. 
+- Manager to Salesperson - A manager can manage multiple Sales people, but a Salesperson only has one Manager. 
 
 
 🔗 [Data Dictionary](https://docs.google.com/spreadsheets/d/1QlI2LRiLOjDiEhPXp9Ho8GiUAaRuEWVMSRwXiWoqvOo/edit#gid=0)
